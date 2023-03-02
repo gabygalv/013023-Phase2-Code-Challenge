@@ -83,6 +83,27 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "description": "test",
+      "date": "2023-03-02",
+      "category": "income",
+      "amount": "100",
+      "id": 13
+    },
+    {
+      "description": "Paycheck from Jimmy Pesto",
+      "date": "2023-02-28",
+      "category": "Income",
+      "amount": "5000",
+      "id": 14
+    },
+    {
+      "description": "Paycheck from Jimmy Pesto",
+      "date": "2023-02-28",
+      "category": "income",
+      "amount": "5000",
+      "id": 15
     }
   ]
 }
